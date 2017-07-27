@@ -1,4 +1,4 @@
-## Your Name
+## Elizabeth Chan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017 to October 2017)
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Cambridge, St John's College (October 2010 to June 2013)
 
-- Subject, any specialisms
-- Grade
+- Master of Arts in Economics
+- Bachelor of Arts in Economics (Second Class Honors)
 - Other cool stuff
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Hong Kong Exchanges and Clearing Limited** (September 2014 to June 2017)    
+*Associate* in IPO Transactions
+*Management Trainee* in Research, Risk Management, Trading and IPO Transactions
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
