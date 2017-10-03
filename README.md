@@ -1,17 +1,25 @@
 ## Elizabeth Chan
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/elizabeth-chan-7221b38b/) | [Blog](tbc)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/elizabeth-chan-7221b38b/)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An energetic and ambitious **Full Stack Junior Developer**, looking for a high-pressure role where I can extend my programming knowledge, while also gaining exposure to product management and business strategy. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
 
-**Tech Skills** : Ruby, [Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, Python, Tensorflow]
+After graduating from Cambridge University with a BA and MA in Economics, I spent three years working in finance as a Management Trainee at the Hong Kong Stock Exchange. Between leaving my job and now, I have spent four months learning to code at Makers Academy, a 16-week highly intensive software development bootcamp in London.
+
+I speak Mandarin, Cantonese and English fluently, and have extensive experiences working in multi-lingual environments.
+
+**Tech Skills** : Ruby, Rails, Sinatra, Rspec, Capybara, Javascript, Node.js, React Native, Express, jQuery, Jasmine, Mocha/Chai, Zombie.js, PostgreSQL, HTML, CSS, Bootstrap
 
 ## Projects
 For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).
 
 | Project  | Description | Technologies |
 | ------------- | ------------- | ------------- |
-| Project1  | TBC  | Rails, RSpec/Capybara |
-| Project2 | TBC  | Python, Tensorflow |
+| MemeMe | A simple meme generator mobile application (iOS & Andriod)| React Native, Expo, [Jest] |
+| SceneNow | A wallpaper tracker mobile application (iOS & Andriod) | React Native, Expo, Unsplash API, [Jest] |
+| Brickbreaker! | A brickbreaker browser game  | Javascript, Phaser, Jasmine |
+| Cocogram | An Instagram clone  | Rails, RSpec, ActiveRecord |
+| Makersbnb | An Airbnb clone  | Javascript, Node, Express, Mocha/Chai, Zombie.js, Bootstrap |
+| BankATM | A REPL application that mimics a simple ATM system  | Javascript, Jasmine, Istanbul, Karma |
 
 ## Skills
 
@@ -47,7 +55,7 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, React Native
 - Rspec, Jasmine, Mocha
 
 #### University of Cambridge, St John's College (Oct '10 to Jun '13)
@@ -69,9 +77,6 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - *Associate at IPO Transactions*
 - *Management Trainee at Listing, Trading, Research and Risk Management*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-
 ## Hobbies and Interests
 - ##### Boxing
--
+- ##### Wine
