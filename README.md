@@ -7,43 +7,37 @@ After graduating from Cambridge University with a BA and MA in Economics, I spen
 
 I speak Mandarin, Cantonese and English fluently, and have extensive experiences working in multi-lingual environments.
 
-**Tech Skills** : Ruby, Rails, Sinatra, Rspec, Capybara, Javascript, Node.js, React Native, Express, jQuery, Jasmine, Mocha/Chai, Zombie.js, PostgreSQL, HTML, CSS, Bootstrap
+**Tech Skills** : Swift, Javascript, Node.js, Express, jQuery, Jasmine, Mocha, Chai, Istanbul, Karma, Ruby, Rails, Sinatra, Rspec, Capybara, PostgreSQL, Realm, HTML, CSS, Bootstrap
 
 ## Projects
 For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).
 
 | Project  | Description | Technologies |
 | ------------- | ------------- | ------------- |
-| MemeMe | A simple meme generator mobile application (iOS & Andriod)| React Native, Expo, [Jest] |
-| SceneNow | A wallpaper tracker mobile application (iOS & Andriod) | React Native, Expo, Unsplash API, [Jest] |
-| Brickbreaker! | A brickbreaker browser game  | Javascript, Phaser, Jasmine |
-| Cocogram | An Instagram clone  | Rails, RSpec, ActiveRecord |
-| Makersbnb | An Airbnb clone  | Javascript, Node, Express, Mocha/Chai, Zombie.js, Bootstrap |
-| BankATM | A REPL application that mimics a simple ATM system  | Javascript, Jasmine, Istanbul, Karma |
+| [Moomood](https://github.com/jenniferbacon01/moomood) | A chatbot that responses to the user's mood, and tracks and understands  over 300 feelings and 5000 reasons of the user  | Swift, Dialogflow, Realm |
+|[Rickbreaker!](https://github.com/ofrost617/slofe-brickbreaker) | A Rick and Morty themed BrickBreaker game  | Javascript, Phaser, Jasmine |
+| [MemeMe](https://github.com/elizabethcsw/reactNativeApp) | A simple meme generator mobile application (iOS & Andriod)| React Native, Expo |
+| [Makersbnb](https://github.com/elizabethcsw/Makersbnb2) | An Airbnb clone allowing users to sign in and list their properties for available dates  | Javascript, Node, Express, Mocha/Chai, Zombie.js, Bootstrap |
+
 
 ## Skills
 
 #### Thrives under pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+From having to organise 21 [events](#education) during my second year at university, and annual company ball during my time as [Management Trainee at the Hong Kong Stock Exchange](#experience), where the bulk of the organisation coincided with completing finals, meeting tight deadlines, organising large scale multi-party events including speakers handling, speeches and logistics, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
+***During the bootcamp at Makers Academy:*** I have learnt and produced two mini React Native apps on my own, and an Node/Express Airbnb-clone with three other teammates in 5 days, without either of the technologies being taught on the course, while delivering every single weekend challenge during the bootcamp.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+For our final project, [Moomood](https://github.com/jenniferbacon01/moomood), a team of 5 of us at Makers Academy learnt Swift 4 and Dialogflow, a natural processing framework, and used them to build a fully-functioning iOS mood chatbot in 10 days.
 
-#### Analytical thinker
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+***Before I became a full stack developer:*** I earned a full-time offer at Hong Kong Stock Exchange by impressing my line manager with how quickly I picked up an understanding of the listing framework in Hong Kong and its fund raising methodologies, and the technologies that the team used.
 
-#### Additional skills
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Team player
+I believe in team work and XP values.  I make sure my teammates know that: "We can do it", "This is not too ambitious" and "You are better than you think you are".
+
+I am confident that with perseverance and hard work, and good practices such as pair programming, daily retrospectives and transparent feedback, a team of developers can develop any product pictured in their mind.
 
 ## Education
 
@@ -55,8 +49,8 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, React Native
-- Rspec, Jasmine, Mocha
+- Swift, Node.js, Express, Javascript, jQuery, Ruby, Rails, Sinatra, PostgreSQL, Realm, HTML, CSS
+- Jasmine, Mocha, Rspec
 
 #### University of Cambridge, St John's College (Oct '10 to Jun '13)
 
@@ -69,7 +63,6 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - A Levels : 3 A*s and 1A in Physics, Economics, Mathematics and Further Mathematics
 - Academic scholar for Economics, Secretary of the Environmental Committee, School Nationality Representative
 
-#### Any other qualifications
 
 ## Experience
 
@@ -78,5 +71,4 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - *Management Trainee at Listing, Trading, Research and Risk Management*
 
 ## Hobbies and Interests
-- ##### Boxing
-- ##### Wine
+- Wine, Travel, Boxing, Fencing
