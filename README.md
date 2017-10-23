@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=reposit
 
 | Project  | Description | Technologies |
 | ------------- | ------------- | ------------- |
-| [Moomood](https://github.com/jenniferbacon01/moomood) | A chatbot that responses to the user's mood, and tracks and understands  over 300 feelings and 5000 reasons of the user  | Swift, Dialogflow, Realm |
+| [Moomood](https://github.com/jenniferbacon01/moomood) ([deck](http://slides.com/elizabethchan/deck-1/fullscreen)) | A chatbot that responses to the user's mood, and tracks and understands  over 300 feelings and 5000 reasons of the user  | Swift, Dialogflow, Realm |
 |[Rickbreaker!](https://github.com/ofrost617/slofe-brickbreaker) | A Rick and Morty themed BrickBreaker game  | Javascript, Phaser, Jasmine |
 | [MemeMe](https://github.com/elizabethcsw/reactNativeApp) | A simple meme generator mobile application (iOS & Andriod)| React Native, Expo |
 | [Makersbnb](https://github.com/elizabethcsw/Makersbnb2) | An Airbnb clone allowing users to sign in and list their properties for available dates  | Javascript, Node, Express, Mocha/Chai, Zombie.js, Bootstrap |
@@ -30,7 +30,7 @@ From having to organise 21 [events](#education) during my second year at univers
 
 ***During the bootcamp at Makers Academy:*** I have learnt and produced two mini React Native apps on my own, and an Node/Express Airbnb-clone with three other teammates in 5 days, without either of the technologies being taught on the course, while delivering every single weekend challenge during the bootcamp.
 
-For our final project, [Moomood](https://github.com/jenniferbacon01/moomood), a team of 5 of us at Makers Academy learnt Swift 4 and Dialogflow, a natural processing framework, and used them to build a fully-functioning iOS mood chatbot in 10 days.
+For our final project, Moomood ([github](https://github.com/jenniferbacon01/moomood), [deck](http://slides.com/elizabethchan/deck-1/fullscreen)), a team of 5 of us at Makers Academy learnt Swift 4 and Dialogflow, a natural processing framework, and used them to build a fully-functioning iOS mood chatbot in 10 days.
 
 ***Before I became a full stack developer:*** I earned a full-time offer at Hong Kong Stock Exchange by impressing my line manager with how quickly I picked up an understanding of the listing framework in Hong Kong and its fund raising methodologies, and the technologies that the team used.
 
