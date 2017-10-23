@@ -64,11 +64,16 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - Academic scholar for Economics, Secretary of the Environmental Committee, School Nationality Representative
 
 
-## Experience
+## Experiences
 
-**Hong Kong Exchanges and Clearing Limited** (Sep '14 to Jun '17)    
-- *Associate at IPO Transactions*
-- *Management Trainee at Listing, Trading, Research and Risk Management*
+**Hong Kong Exchanges and Clearing Limited** (Jun '16 to Jun '17)    
+- Associate at IPO Transactions
+- Vetting over 30 companies, including banks, conglomerates, pharmaceutical companies and financial institutions that have applied to get listed in Hong Kong
+
+**Hong Kong Exchanges and Clearing Limited** (Sep '14 to May '16)    
+- Management Trainee at Listing, Trading, Research and Risk Management
+- Managed strategic relationships with the Trading and Clearing Participants by preparing regular market briefs, delivering presentation materials and organising target luncheons to suit changing business needs
+- Formulated trade pattern analyses, conducted in-depth market research and collaborated between divisions to assist senior management in strengthening the Stock Connect model
 
 ## Hobbies and Interests
 - Wine, Travel, Boxing, Fencing
