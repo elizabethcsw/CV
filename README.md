@@ -69,7 +69,7 @@ A 16-week intensive full-stack developer bootcamp focused on:
 #### Healthera Limited (Nov '17 to Present)    
 - Full stack developer
 - Covers the frontend and backend in web and mobile development. Responsible in building web applications in React and Angular, and extending the API with Node.js, Express, Cassandra and ElasticSearch, supporting more than 10000 patients daily. Proficient in Amazon Web Services and Jenkins for continuous integration and deployment
-- Designed web and mobile app mockups with the product team
+- Designs web and mobile app mockups with the product team
 
 #### Hong Kong Exchanges and Clearing Limited (Jun '16 to Jun '17)    
 - Associate at IPO Transactions
