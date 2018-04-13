@@ -10,7 +10,7 @@ Because of my previous experiences, I work well with the business team as well a
 **Tech Skills** : Javascript, React, AngularJS, Node.js, Express, jQuery, Jasmine, Mocha, Chai, Istanbul, Karma, Ruby, Rails, Sinatra, Rspec, Capybara, Swift, Cassandra, PostgreSQL, Realm, ElasticSearch, HTML, CSS, Bootstrap
 
 ## Projects
-For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).  Due to business reasons, full-fledged application developed in my current role at Healthera will not be listed.  Please contact me via Github or LinkedIn for a demo of the latest products I built.
+For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).  Due to business reasons, full-fledged applications developed in my current role at Healthera will not be listed.  Please contact me via Github or LinkedIn for a demo of the latest products I built.
 
 | Project  | Description | Technologies |
 | ------------- | ------------- | ------------- |
@@ -68,7 +68,8 @@ A 16-week intensive full-stack developer bootcamp focused on:
 
 #### Healthera Limited (Nov '17 to Present)    
 - Full stack developer
-- Covers the frontend and backend in web and mobile development. Responsible in building web applications in React and Angular, and extending the API with Node.js, Express, Cassandra and ElasticSearch, supporting more than 8000 users. Proficient in Amazon Web Services and Jenkins for continous integration and deployment.
+- Covers the frontend and backend in web and mobile development. Responsible in building web applications in React and Angular, and extending the API with Node.js, Express, Cassandra and ElasticSearch, supporting more than 10000 patients daily. Proficient in Amazon Web Services and Jenkins for continuous integration and deployment
+- Designed web and mobile app mockups with the product team
 
 #### Hong Kong Exchanges and Clearing Limited (Jun '16 to Jun '17)    
 - Associate at IPO Transactions
