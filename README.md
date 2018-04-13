@@ -1,7 +1,7 @@
 ## Elizabeth Chan
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/elizabeth-chan-7221b38b/)
 
-An energetic and ambitious **Full Stack Developer**, current working at a healthcare startup, Healthera. Core member of the dev team and main responsibilities include web development (frontend: React and AngularJS; backend: Node), continuous integration deployment (Jenkins and AWS) and project management. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
+An energetic and ambitious **Full Stack Developer**, current working at [Healthera](https://healthera.co.uk/), a healthcare startup that facilitates prescriptions, medication reminder and communication between patients, pharmacies, surgeries and doctors in the UK. Core member of the development team and main responsibilities include web development (frontend: React and AngularJS; backend: Node), continuous integration deployment (Jenkins and AWS) and project management. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
 
 After graduating from Cambridge University with a BA and MA in Economics, I spent three years working in finance as a Management Trainee at the Hong Kong Stock Exchange. Between leaving my job and now, I have spent four months learning to code at Makers Academy, a 16-week highly intensive software development bootcamp in London.
 
