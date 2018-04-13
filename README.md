@@ -1,7 +1,7 @@
 ## Elizabeth Chan
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/elizabeth-chan-7221b38b/)
 
-An energetic and ambitious **Full Stack Junior Developer**, looking for a high-pressure role where I can extend my programming knowledge, while also gaining exposure to product management and business strategy. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
+An energetic and ambitious **Full Stack Developer**, current working at a healthcare startup, Healthera. Core member of the dev team and main responsibilities include web development (frontend: React and AngularJS; backend: Node), continuous integration deployment (Jenkins and AWS) and project management. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
 
 After graduating from Cambridge University with a BA and MA in Economics, I spent three years working in finance as a Management Trainee at the Hong Kong Stock Exchange. Between leaving my job and now, I have spent four months learning to code at Makers Academy, a 16-week highly intensive software development bootcamp in London.
 
@@ -10,7 +10,7 @@ I speak Mandarin, Cantonese and English fluently, and have extensive experiences
 **Tech Skills** : Swift, Javascript, Node.js, Express, jQuery, Jasmine, Mocha, Chai, Istanbul, Karma, Ruby, Rails, Sinatra, Rspec, Capybara, PostgreSQL, Realm, HTML, CSS, Bootstrap
 
 ## Projects
-For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).
+For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).  Due to business reasons, full-fledged application developed in my current role at Healthera will not be listed.  Please contact me via Github or LinkedIn for a demo of the latest products I built.
 
 | Project  | Description | Technologies |
 | ------------- | ------------- | ------------- |
@@ -66,9 +66,13 @@ A 16-week intensive full-stack developer bootcamp focused on:
 
 ## Experiences
 
+#### Healthera Limited (Nov '17 to Present)    
+- Full stack developer
+- Covers the frontend and backend in web and mobile development. Responsible in building web applications in React and Angular, and extending the API with Node.js, Express, Cassandra and ElasticSearch, supporting more than 8000 users. Proficient in Amazon Web Services and Jenkins for continous integration and deployment.
+
 #### Hong Kong Exchanges and Clearing Limited (Jun '16 to Jun '17)    
 - Associate at IPO Transactions
-- Vetting over 30 companies, including banks, conglomerates, pharmaceutical companies and financial institutions that have applied to get listed in Hong Kong
+- Vetted over 30 companies, including banks, conglomerates, pharmaceutical companies and financial institutions that have applied to get listed in Hong Kong
 
 #### Hong Kong Exchanges and Clearing Limited (Sep '14 to May '16)    
 - Management Trainee at Listing, Trading, Research and Risk Management
