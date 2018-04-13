@@ -1,13 +1,13 @@
 ## Elizabeth Chan
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/elizabeth-chan-7221b38b/)
 
-An energetic and ambitious **Full Stack Developer**, current working at [Healthera](https://healthera.co.uk/), a healthcare startup that facilitates prescriptions, medication reminder and communication between patients, pharmacies, surgeries and doctors in the UK. Core member of the development team and main responsibilities include web development (frontend: React and AngularJS; backend: Node), continuous integration deployment (Jenkins and AWS) and project management. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
+An energetic and ambitious **Full Stack Developer**, current working at [Healthera](https://healthera.co.uk/), a healthcare startup that facilitates prescriptions, medication reminder and communication between patients, pharmacies, surgeries and doctors in the UK. Core member of the development team.  Responsibilities include web development (frontend: React and AngularJS; backend: Node), continuous integration deployment (Jenkins and AWS) and project management. Ultimate goal is to become a technology entrepreneur and get involved in improving the healthcare system in China.
 
-After graduating from Cambridge University with a BA and MA in Economics, I spent three years working in finance as a Management Trainee at the Hong Kong Stock Exchange. Between leaving my job and now, I have spent four months learning to code at Makers Academy, a 16-week highly intensive software development bootcamp in London.
+After graduating from Cambridge University with a BA and MA in Economics, I spent three years working in finance as a Management Trainee and then Associate at the Hong Kong Stock Exchange. I eventually realised that I really wanted to build products that would improve people's experience in healthcare.  I resigned in June 2017 and joined Makers Academy in July 2017, a 16-week highly intensive software development bootcamp in London.  Straight after graduating from Makers Academy, I was recruited to Healthera, where I build amasing healthcare products with a team of six developers now.
 
-I speak Mandarin, Cantonese and English fluently, and have extensive experiences working in multi-lingual environments.
+Because of my previous experiences, I work well with the business team as well as the web and mobile development team.  I speak Mandarin, Cantonese and English fluently, and have extensive experiences working in multi-lingual environments.
 
-**Tech Skills** : Swift, Javascript, Node.js, Express, jQuery, Jasmine, Mocha, Chai, Istanbul, Karma, Ruby, Rails, Sinatra, Rspec, Capybara, PostgreSQL, Realm, HTML, CSS, Bootstrap
+**Tech Skills** : Javascript, React, AngularJS, Node.js, Express, jQuery, Jasmine, Mocha, Chai, Istanbul, Karma, Ruby, Rails, Sinatra, Rspec, Capybara, Swift, Cassandra, PostgreSQL, Realm, ElasticSearch, HTML, CSS, Bootstrap
 
 ## Projects
 For a complete list, see my [GitHub](https://github.com/elizabethcsw?tab=repositories).  Due to business reasons, full-fledged application developed in my current role at Healthera will not be listed.  Please contact me via Github or LinkedIn for a demo of the latest products I built.
