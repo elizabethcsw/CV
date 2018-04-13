@@ -81,4 +81,4 @@ A 16-week intensive full-stack developer bootcamp focused on:
 - Formulated trade pattern analyses, conducted in-depth market research and collaborated between divisions to assist senior management in strengthening the Stock Connect model
 
 ## Hobbies and Interests
-- Wine, Travel, Boxing, Fencing
+- Wine, Travel, Boxing, Fencing, Mario Kart
